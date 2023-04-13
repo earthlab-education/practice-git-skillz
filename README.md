@@ -5,4 +5,4 @@ through the online lessons in the [introduction to earth data science textbook o
 
 Here is some more text.
 
-Hey I just commited to the Earth Data science practice file
+Hey I just commited to the Earth Data science practice file. Yeeh!
