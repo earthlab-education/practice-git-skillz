@@ -5,3 +5,5 @@ through the online lessons in the [introduction to earth data science textbook o
 
 Here is some more text.
 Earth Data Science
+
+this is the next practice that I have for learning more about working with gi and github
