@@ -7,3 +7,4 @@ Here is some more text.
 
 Some text added for demo purpose.
 New text is added .
+A good couple of lesson on earth data science is available on the aforementioned link above. do visit for exploring the knowledge.
