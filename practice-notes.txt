@@ -1,0 +1,5 @@
+GitとGitHubの練習記録
+
+- 教材をForkし、手元にCloneした。
+- Notebookを編集して、自分のForkへPushした。
+- Notebookのファイル名を変更した。
